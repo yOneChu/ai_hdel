@@ -1,0 +1,6 @@
+{
+  "name": "Smart Procurement Analyzer",
+  "description": "Analyze purchase orders, price history, and project costs to identify rising prices, substitutes, and cost-saving opportunities using Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
